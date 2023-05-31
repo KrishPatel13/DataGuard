@@ -1,0 +1,7 @@
+pytest==7.1.3
+pillow
+fire==0.4.0
+mss==6.1.0
+presidio_image_redactor
+presidio_analyzer
+presidio_anonymizer
