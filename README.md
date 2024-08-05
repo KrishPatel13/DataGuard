@@ -1,6 +1,6 @@
-# Scrub
+# DataGuard
 
-**Scrub** is a Python project designed to remove Personally Identifiable Information (PII) and Protected Health Information (PHI) from text, images, and other data structures. The project leverages the Microsoft Presidio library to analyze and anonymize sensitive information, making it a valuable tool for industries such as healthcare, legal, and finance where data privacy is critical.
+**DataGuard** is a Python project designed to remove Personally Identifiable Information (PII) and Protected Health Information (PHI) from text, images, and other data structures. The project leverages the Microsoft Presidio library to analyze and anonymize sensitive information, making it a valuable tool for industries such as healthcare, legal, and finance where data privacy is critical.
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/KrishPatel13/Scrub.git
+    git clone https://github.com/KrishPatel13/DataGuard.git
     cd Scrub
     ```
 
