@@ -1,5 +1,7 @@
 # DataGuard
 
+![DataGuard Logo](./path_to_your_image.png)
+
 **DataGuard** is a Python project designed to remove Personally Identifiable Information (PII) and Protected Health Information (PHI) from text, images, and other data structures. The project leverages the Microsoft Presidio library to analyze and anonymize sensitive information, making it a valuable tool for industries such as healthcare, legal, and finance where data privacy is critical.
 
 ## Features
